@@ -1,5 +1,5 @@
 document.getElementById('circle1').addEventListener('click', function() {
-    openModal('Acceleration', 'acceleration.mp3', `
+    openModal('Acceleration', 'Acceleration.mp3', `
         Acceleration is the rate of change of velocity with respect to time. It is a vector quantity, which means it has both magnitude and direction.
     `, `
         <p>Verse 1:<br>
